@@ -222,6 +222,12 @@ function printLogHandler() {
 	// i--;
 	// console.log(i);
 	// }
+	// for (let i = 0; i < battleLog.length; i++) {
+	// 	console.log(battleLog[i]);
+	// }
+	for (const logEntry of battleLog) {
+		console.log(logEntry);
+	}
 	console.log(battleLog);
 }
 
