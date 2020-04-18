@@ -42,7 +42,3 @@ function removeBonusLife() {
 function setPlayerHealth(health) {
 	playerHealthBar.value = health;
 }
-
-// function setPlayerHealth(health) {
-// 	playerHealthBar.value = health;
-// }
